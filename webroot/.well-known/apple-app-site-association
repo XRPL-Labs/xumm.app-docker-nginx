@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "LK5BBJNJZ6.com.xrpllabs.xign",
+            "paths": ["/detect/*", "/tx/*", "/pair/*", "/sign/*" ]
+            }
+         ]
+    }
+}
+
