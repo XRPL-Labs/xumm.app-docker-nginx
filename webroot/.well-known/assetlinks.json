@@ -2,9 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.xrpllabs.xign",
+    "package_name": "com.xrpllabs.xumm",
     "sha256_cert_fingerprints":
     ["6D:CC:E1:61:BB:20:3D:2F:D5:C7:D3:44:E9:8D:2E:0B:3E:B6:F1:41:7B:79:3A:49:4D:C1:AC:11:7C:B2:FB:B4"]
   }
 }]
-
